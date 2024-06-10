@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment_6_Zain_Ashraf", "Assignment_5_Zain_Ashraf\Assignment_6_Zain_Ashraf.csproj", "{3A911DC2-0EC2-4F24-9F57-6B74FFF3ED6E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Zain_Custom_DB_Application", "Zain_Custom_DB_Application\Zain_Custom_DB_Application.vdproj", "{610D6B21-0B80-48B7-9469-F3AC16D246CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A911DC2-0EC2-4F24-9F57-6B74FFF3ED6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A911DC2-0EC2-4F24-9F57-6B74FFF3ED6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A911DC2-0EC2-4F24-9F57-6B74FFF3ED6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A911DC2-0EC2-4F24-9F57-6B74FFF3ED6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{610D6B21-0B80-48B7-9469-F3AC16D246CA}.Debug|Any CPU.ActiveCfg = Debug
+		{610D6B21-0B80-48B7-9469-F3AC16D246CA}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8215FA5E-D302-42D4-AC8E-1EFCD06E9F43}
+	EndGlobalSection
+EndGlobal
